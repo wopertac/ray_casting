@@ -3,3 +3,9 @@
 ```bash
 pip install pygame
 ```
+
+<h2>run</h2>
+
+```bash
+python main.py
+```
