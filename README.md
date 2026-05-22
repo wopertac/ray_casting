@@ -1,4 +1,4 @@
 <h2>dependencies</h2>
-```bash
+'''bash
 pip install pygame
-```
+'''
